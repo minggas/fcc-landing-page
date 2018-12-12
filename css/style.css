@@ -273,7 +273,7 @@ main {
   }
   #form {
     position: absolute;
-    bottom: 100px;
+    top: 100px;
     right: 50px;
   }
 }
